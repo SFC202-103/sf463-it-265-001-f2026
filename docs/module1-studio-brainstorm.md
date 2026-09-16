@@ -52,7 +52,7 @@
 ## Unique Selling Point (USP)
 *What will make your games stand out from others, particularly in the indie/board game space?*
 
-> That they will be simple to pick up and play even when under an influence and progress into a challenge when actual put some effort in and also easy to restart
+> That they will be simple to pick up and play even when under an influence and progress into a challenge when actual effort put in and also, easy to restart
 
 ---
 
@@ -72,7 +72,7 @@
 
 - **Logo Style:** Playful
 - **Tagline Ideas:** 
-  - Build high and built fun
+  - Build high, built fun
   - Simple high, Soberly complex
   - 
 
