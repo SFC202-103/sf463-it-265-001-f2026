@@ -7,12 +7,11 @@
 - **Alternative Ideas:**
   - HeightLimit
   - BuiltHeight
-  - [Insert alternative name idea 3]
 
-- **Chosen Name**:
-- **About the name**:
-- **Social Medias with name available**:
-- **Possible domain names available**:
+- **BuiltHigh**:
+- **About the name**:Building that are high or building things while high
+- **Social Medias with name available**:insta, youtube, twitch, github, venmeo
+- **Possible domain names available**:builthigh.com (11.28), builthigh.net (12.48)
 
 ---
 
@@ -26,19 +25,18 @@
 ## Core Values
 *What principles guide your studio's approach to game design, architecture, and development?*
 
-- [Value 1: e.g., Thoughtful Design]
-- [Value 2: e.g., Player-Centered Innovation]
-- [Value 3: e.g., Simplicity in Architecture]
-- [Value 4: e.g., Experimentation with Mechanics]
+- Simple, beginner friendly
+- can become deep and more complex 
+
 
 ---
 
 ## Target Audience
 *Who are your games designed for? Identify your primary audience based on your focus on card and board games.*
 
-- **Demographic:** [e.g., Casual Players, Board Game Enthusiasts, Indie Game Fans]
-- **Interests:** [e.g., Strategic Gameplay, Narrative-Driven Experiences, Multiplayer Fun]
-- **Platforms:** [e.g., PC, Web, Mobile]
+- **Demographic:** Casual Players, stoners, challenge driven
+- **Interests:** Strategic Gameplay, funny Narrative Experiences, Multiplayer Fun
+- **Platforms:** PC, Mobile
 
 ---
 
@@ -47,15 +45,14 @@
 *Consider your course's emphasis on depth, mechanics, and balance in card and board games.*
 
 - Sandbox or city builders
-- [e.g., Themes: Fantasy, Sci-Fi, Minimalist, etc.]
+- any theme 
 
 ---
 
 ## Unique Selling Point (USP)
 *What will make your games stand out from others, particularly in the indie/board game space?*
 
-> on high or down low this is what you need
-> 
+> That they will be simple to pick up and play even when under an influence and progress into a challenge when actual put some effort in and also easy to restart
 
 ---
 
@@ -63,25 +60,26 @@
 *What tools and platforms will you use to develop, test, and publish your games?*
 
 - **Game Engine(s):** Unity,gamedot
-- **Art Tools:** [e.g., Inkscape, Aseprite for board/card assets.]
-- **Audio Tools:** [e.g., Audacity, Bfxr for sound effects.]
-- **Version Control:** [e.g., GitHub for tracking development.]
-- **Publishing Platforms:** [e.g., Itch.io, GitHub Pages for hosting digital prototypes.]
+- **Art Tools:** 
+- **Audio Tools:** Audacity
+- **Version Control:**  GitHub 
+- **Publishing Platforms:** Itch.io
 
 ---
 
 ## Branding and Aesthetics
 *What will your studio's visual identity look like?*
 
-- **Logo Style:** [e.g., Minimalist, Geometric, Playful.]
+- **Logo Style:** Playful
 - **Tagline Ideas:** 
-  - [Tagline 1: e.g., "Simple Games, Complex Stories."]
-  - [Tagline 2: e.g., "Where Mechanics Meet Meaning."]
-  - [Tagline 3: e.g., "Architects of Fun."]
+  - Build high and built fun
+  - Simple high, Soberly complex
+  - 
 
 -- **Sketches/Logo**:
 
----
+---<img width="936" height="804" alt="builthigh" src="https://github.com/user-attachments/assets/4c969dd5-9cc5-4b46-982d-ed531b702fb1" />
+
 
 ## Additional Notes
 *Include any other ideas, inspirations, or thoughts related to your studio or project.*
