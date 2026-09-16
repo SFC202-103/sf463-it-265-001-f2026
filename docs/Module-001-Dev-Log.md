@@ -6,33 +6,28 @@
 ### Date: 09/10/2026
 
 #### Goals for this Module
-<!-- Example Template (include the brackets to make a checklist, fill them in with an "x" to check them off
-- [ ] Goal 1
-- [ ] Goal 2
-- [ ] Goal 3
--->
-- [ ] Example pending goal
-- [x] Example completed goal
+- [ ] playing games
+- [x] Brain storm practice 
 
 #### Progress
 - **What I accomplished**:
   - Summarize completed tasks or progress made.
-  > Unanswered <!--Your entry here or N/A if not applicable for this entry-->
+  > I finished the assignment that was due
 - **Challenges faced**:
   - Describe blockers, bugs, or issues encountered.
-  >  Unanswered <!--Your entry here or N/A if not applicable for this entry-->
+  >  sending the right link
 - **Solutions**:
   - Detail how you addressed challenges or your thought process.
-  > Unanswered <!--Your entry here or N/A if not applicable for this entry-->
+  > I watched the video that was sent and it help submit the right link for the assignment for now
 
 #### Learnings
 - Key insights, techniques, or concepts explored.
-> Unanswered <!--Your entry here or N/A if not applicable for this entry-->
+> look at the video, and asl for help if needed, use resource that r given
 
 #### Free Thinking
 - Brainstorm or reflect on design ideas, architecture patterns, or potential improvements.
->  Unanswered <!--Your entry here or N/A if not applicable for this entry-->
+>  probably have more funny ideas for thought experiments 
 
 #### Next Steps
 - Tasks or experiments to focus on during the next session.
->  Unanswered <!--Your entry here or N/A if not applicable for this entry-->
+>  look for what is next
